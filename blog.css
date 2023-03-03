@@ -1,0 +1,43 @@
+body{
+    background-image: url("Trvlg2.png");
+    background-repeat: no-repeat;
+    font-family: "Inter";
+    color: white;
+    margin: none;
+ }
+
+ #item{
+    padding-left: 20px;
+    padding-right: 20px;
+ }
+ #navbarSupportedContent{
+    padding-left: 10em;
+    padding-right: 3em;
+    font-size: 24px;
+    line-height: 29px;
+ }
+ .navbar-brand{
+    font-size: 48px;
+    line-height: 58px;
+    padding: 10px;
+    font-weight: 800;
+ }
+ .d-flex{
+    padding-right: 10px;
+    padding-left: 30px;
+ }
+ #nav-main{
+    padding-top: 5px;
+    margin-left: 5px;
+ }
+ .form-control{
+    border-radius: 20px;
+    border: none;
+    opacity: 80%;
+    width: 180px
+ }
+ #navigation-bar{
+    padding-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+ }
